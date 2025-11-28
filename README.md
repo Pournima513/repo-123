@@ -1,4 +1,4 @@
 # repo-123
-this is my first repository
+This Is My First Repository
 <br>
 Author - Pournima Chaudhari 
